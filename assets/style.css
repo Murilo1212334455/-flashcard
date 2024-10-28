@@ -99,6 +99,9 @@ body {
 
     } 
 
+    .cartao:hover .cartao__conteudo { transform: rotateY(180deg); } 
+    
+
     footer p { 
 
     text-align: center; 

@@ -1,11 +1,11 @@
 :root {
-        --text-color: #DBE4EF;
-            --card-front-color: #144480;
-                --card-back-color: #00F4BF;
-                }
+ --text-color: #DBE4EF;
+ --card-front-color: #144480;
+  --card-back-color: #00F4BF;
+  }
 
-                body{
-                    background: url('Img/bg-desktop-1.webp');
+  body{
+   background: url('Img/bg-desktop-1.webp');
      font-family: Bai Jamjuree;
      }
 
@@ -82,17 +82,17 @@
 
 
 
-                                                                                                                                          footer {
-                                                                                                                                              background-color: black;
-                                                                                                                                                  color: white;
-                                                                                                                                                      position: fixed;
-                                                                                                                                                          bottom: 0;
-                                                                                                                                                              width: 100%;
-                                                                                                                                                                  height: 2rem;
-                                                                                                                                                                  }
+   footer {      
+   background-color: black;
+   color: white;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 2rem;
+   }
 
-                                                                                                                                                                  footer p {
-                                                                                                                                                                      text-align: center;
-                                                                                                                                                                          font-size: 0.6rem;
-                                                                                                                                                                              margin-top: 0.5rem;
-                                                                                                                                                                              }                    
+   footer p {
+   text-align: center;
+   font-size: 0.6rem;
+   margin-top: 0.5rem;
+   }                    
